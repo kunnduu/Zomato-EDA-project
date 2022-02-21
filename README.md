@@ -1,6 +1,7 @@
 # Zomato-EDA-project
 An exploratory data analysis project which explores a dataset on zomato service in Bangalore 
 Dataset link is given inside of the ipynb file itself
+A better place to view this :- https://jovian.ai/kunduabhimanyu031/overview
  
  # Data set link 📖
  The dataset can be downloaded from the following link:- https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
